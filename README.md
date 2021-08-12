@@ -1,4 +1,4 @@
 # C-by-Developing-Application
-**Used technologies
+**Used technologies**
 *Visual Studio
 *Sql
