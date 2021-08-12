@@ -1,0 +1,10 @@
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\BasicToolUses\ComboboxListboxApp\ComboboxListboxApp\bin\Debug\ComboboxListboxApp.exe.config
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\BasicToolUses\ComboboxListboxApp\ComboboxListboxApp\bin\Debug\ComboboxListboxApp.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\BasicToolUses\ComboboxListboxApp\ComboboxListboxApp\bin\Debug\ComboboxListboxApp.pdb
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\BasicToolUses\ComboboxListboxApp\ComboboxListboxApp\obj\Debug\ComboboxListboxApp.csproj.AssemblyReference.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\BasicToolUses\ComboboxListboxApp\ComboboxListboxApp\obj\Debug\ComboboxListboxApp.Form1.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\BasicToolUses\ComboboxListboxApp\ComboboxListboxApp\obj\Debug\ComboboxListboxApp.Properties.Resources.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\BasicToolUses\ComboboxListboxApp\ComboboxListboxApp\obj\Debug\ComboboxListboxApp.csproj.GenerateResource.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\BasicToolUses\ComboboxListboxApp\ComboboxListboxApp\obj\Debug\ComboboxListboxApp.csproj.CoreCompileInputs.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\BasicToolUses\ComboboxListboxApp\ComboboxListboxApp\obj\Debug\ComboboxListboxApp.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\BasicToolUses\ComboboxListboxApp\ComboboxListboxApp\obj\Debug\ComboboxListboxApp.pdb

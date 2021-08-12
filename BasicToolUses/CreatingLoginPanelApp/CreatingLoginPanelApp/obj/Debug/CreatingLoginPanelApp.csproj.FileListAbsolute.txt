@@ -1,0 +1,10 @@
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\BasicToolUses\CreatingLoginPanelApp\CreatingLoginPanelApp\bin\Debug\CreatingLoginPanelApp.exe.config
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\BasicToolUses\CreatingLoginPanelApp\CreatingLoginPanelApp\bin\Debug\CreatingLoginPanelApp.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\BasicToolUses\CreatingLoginPanelApp\CreatingLoginPanelApp\bin\Debug\CreatingLoginPanelApp.pdb
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\BasicToolUses\CreatingLoginPanelApp\CreatingLoginPanelApp\obj\Debug\CreatingLoginPanelApp.csproj.AssemblyReference.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\BasicToolUses\CreatingLoginPanelApp\CreatingLoginPanelApp\obj\Debug\CreatingLoginPanelApp.Form1.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\BasicToolUses\CreatingLoginPanelApp\CreatingLoginPanelApp\obj\Debug\CreatingLoginPanelApp.Properties.Resources.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\BasicToolUses\CreatingLoginPanelApp\CreatingLoginPanelApp\obj\Debug\CreatingLoginPanelApp.csproj.GenerateResource.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\BasicToolUses\CreatingLoginPanelApp\CreatingLoginPanelApp\obj\Debug\CreatingLoginPanelApp.csproj.CoreCompileInputs.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\BasicToolUses\CreatingLoginPanelApp\CreatingLoginPanelApp\obj\Debug\CreatingLoginPanelApp.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\BasicToolUses\CreatingLoginPanelApp\CreatingLoginPanelApp\obj\Debug\CreatingLoginPanelApp.pdb

@@ -1,0 +1,10 @@
+C:\Users\DİLARA SEVİM POLAT\Source\Repos\FlightTicketReservationSystem\FlightTicketReservationSystem\bin\Debug\FlightTicketReservationSystem.exe.config
+C:\Users\DİLARA SEVİM POLAT\Source\Repos\FlightTicketReservationSystem\FlightTicketReservationSystem\bin\Debug\FlightTicketReservationSystem.exe
+C:\Users\DİLARA SEVİM POLAT\Source\Repos\FlightTicketReservationSystem\FlightTicketReservationSystem\bin\Debug\FlightTicketReservationSystem.pdb
+C:\Users\DİLARA SEVİM POLAT\Source\Repos\FlightTicketReservationSystem\FlightTicketReservationSystem\obj\Debug\FlightTicketReservationSystem.csproj.AssemblyReference.cache
+C:\Users\DİLARA SEVİM POLAT\Source\Repos\FlightTicketReservationSystem\FlightTicketReservationSystem\obj\Debug\FlightTicketReservationSystem.Form1.resources
+C:\Users\DİLARA SEVİM POLAT\Source\Repos\FlightTicketReservationSystem\FlightTicketReservationSystem\obj\Debug\FlightTicketReservationSystem.Properties.Resources.resources
+C:\Users\DİLARA SEVİM POLAT\Source\Repos\FlightTicketReservationSystem\FlightTicketReservationSystem\obj\Debug\FlightTicketReservationSystem.csproj.GenerateResource.cache
+C:\Users\DİLARA SEVİM POLAT\Source\Repos\FlightTicketReservationSystem\FlightTicketReservationSystem\obj\Debug\FlightTicketReservationSystem.csproj.CoreCompileInputs.cache
+C:\Users\DİLARA SEVİM POLAT\Source\Repos\FlightTicketReservationSystem\FlightTicketReservationSystem\obj\Debug\FlightTicketReservationSystem.exe
+C:\Users\DİLARA SEVİM POLAT\Source\Repos\FlightTicketReservationSystem\FlightTicketReservationSystem\obj\Debug\FlightTicketReservationSystem.pdb
