@@ -1,4 +1,4 @@
-# C-by-Developing-Application
+# C#-by-Developing-Application
 **Used Technologies**
 
 * Visual Studio
