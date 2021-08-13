@@ -1,0 +1,10 @@
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Variables\StudentExamSystemApp\StudentExamSystemApp\obj\Debug\StudentExamSystemApp.csproj.AssemblyReference.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Variables\StudentExamSystemApp\StudentExamSystemApp\obj\Debug\StudentExamSystemApp.Form1.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Variables\StudentExamSystemApp\StudentExamSystemApp\obj\Debug\StudentExamSystemApp.Properties.Resources.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Variables\StudentExamSystemApp\StudentExamSystemApp\obj\Debug\StudentExamSystemApp.csproj.GenerateResource.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Variables\StudentExamSystemApp\StudentExamSystemApp\obj\Debug\StudentExamSystemApp.csproj.CoreCompileInputs.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Variables\StudentExamSystemApp\StudentExamSystemApp\bin\Debug\StudentExamSystemApp.exe.config
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Variables\StudentExamSystemApp\StudentExamSystemApp\bin\Debug\StudentExamSystemApp.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Variables\StudentExamSystemApp\StudentExamSystemApp\bin\Debug\StudentExamSystemApp.pdb
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Variables\StudentExamSystemApp\StudentExamSystemApp\obj\Debug\StudentExamSystemApp.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Variables\StudentExamSystemApp\StudentExamSystemApp\obj\Debug\StudentExamSystemApp.pdb

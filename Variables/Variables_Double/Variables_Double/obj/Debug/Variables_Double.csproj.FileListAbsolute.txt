@@ -1,0 +1,9 @@
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Variables\Variables_Double\Variables_Double\bin\Debug\Variables_Double.exe.config
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Variables\Variables_Double\Variables_Double\bin\Debug\Variables_Double.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Variables\Variables_Double\Variables_Double\bin\Debug\Variables_Double.pdb
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Variables\Variables_Double\Variables_Double\obj\Debug\Variables_Double.Form1.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Variables\Variables_Double\Variables_Double\obj\Debug\Variables_Double.Properties.Resources.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Variables\Variables_Double\Variables_Double\obj\Debug\Variables_Double.csproj.GenerateResource.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Variables\Variables_Double\Variables_Double\obj\Debug\Variables_Double.csproj.CoreCompileInputs.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Variables\Variables_Double\Variables_Double\obj\Debug\Variables_Double.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Variables\Variables_Double\Variables_Double\obj\Debug\Variables_Double.pdb

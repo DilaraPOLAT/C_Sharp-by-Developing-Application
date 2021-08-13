@@ -1,0 +1,9 @@
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Variables\Variables_int_keyboard\Variables_int_keyboard\bin\Debug\Variables_int_keyboard.exe.config
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Variables\Variables_int_keyboard\Variables_int_keyboard\bin\Debug\Variables_int_keyboard.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Variables\Variables_int_keyboard\Variables_int_keyboard\bin\Debug\Variables_int_keyboard.pdb
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Variables\Variables_int_keyboard\Variables_int_keyboard\obj\Debug\Variables_int_keyboard.Form1.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Variables\Variables_int_keyboard\Variables_int_keyboard\obj\Debug\Variables_int_keyboard.Properties.Resources.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Variables\Variables_int_keyboard\Variables_int_keyboard\obj\Debug\Variables_int_keyboard.csproj.GenerateResource.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Variables\Variables_int_keyboard\Variables_int_keyboard\obj\Debug\Variables_int_keyboard.csproj.CoreCompileInputs.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Variables\Variables_int_keyboard\Variables_int_keyboard\obj\Debug\Variables_int_keyboard.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Variables\Variables_int_keyboard\Variables_int_keyboard\obj\Debug\Variables_int_keyboard.pdb

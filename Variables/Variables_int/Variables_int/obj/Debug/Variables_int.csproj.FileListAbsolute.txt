@@ -1,0 +1,9 @@
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Variables\Variables_int\Variables_int\bin\Debug\Variables_int.exe.config
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Variables\Variables_int\Variables_int\bin\Debug\Variables_int.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Variables\Variables_int\Variables_int\bin\Debug\Variables_int.pdb
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Variables\Variables_int\Variables_int\obj\Debug\Variables_int.Form1.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Variables\Variables_int\Variables_int\obj\Debug\Variables_int.Properties.Resources.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Variables\Variables_int\Variables_int\obj\Debug\Variables_int.csproj.GenerateResource.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Variables\Variables_int\Variables_int\obj\Debug\Variables_int.csproj.CoreCompileInputs.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Variables\Variables_int\Variables_int\obj\Debug\Variables_int.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Variables\Variables_int\Variables_int\obj\Debug\Variables_int.pdb

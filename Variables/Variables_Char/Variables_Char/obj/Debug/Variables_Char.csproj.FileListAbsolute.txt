@@ -1,0 +1,10 @@
+C:\Users\DİLARA SEVİM POLAT\Source\Repos\Variables_Char\Variables_Char\bin\Debug\Variables_Char.exe.config
+C:\Users\DİLARA SEVİM POLAT\Source\Repos\Variables_Char\Variables_Char\bin\Debug\Variables_Char.exe
+C:\Users\DİLARA SEVİM POLAT\Source\Repos\Variables_Char\Variables_Char\bin\Debug\Variables_Char.pdb
+C:\Users\DİLARA SEVİM POLAT\Source\Repos\Variables_Char\Variables_Char\obj\Debug\Variables_Char.csproj.AssemblyReference.cache
+C:\Users\DİLARA SEVİM POLAT\Source\Repos\Variables_Char\Variables_Char\obj\Debug\Variables_Char.Form1.resources
+C:\Users\DİLARA SEVİM POLAT\Source\Repos\Variables_Char\Variables_Char\obj\Debug\Variables_Char.Properties.Resources.resources
+C:\Users\DİLARA SEVİM POLAT\Source\Repos\Variables_Char\Variables_Char\obj\Debug\Variables_Char.csproj.GenerateResource.cache
+C:\Users\DİLARA SEVİM POLAT\Source\Repos\Variables_Char\Variables_Char\obj\Debug\Variables_Char.csproj.CoreCompileInputs.cache
+C:\Users\DİLARA SEVİM POLAT\Source\Repos\Variables_Char\Variables_Char\obj\Debug\Variables_Char.exe
+C:\Users\DİLARA SEVİM POLAT\Source\Repos\Variables_Char\Variables_Char\obj\Debug\Variables_Char.pdb
