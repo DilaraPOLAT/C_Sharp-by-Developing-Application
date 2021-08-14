@@ -1,0 +1,9 @@
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Timer\Timer\bin\Debug\Timer.exe.config
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Timer\Timer\bin\Debug\Timer.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Timer\Timer\bin\Debug\Timer.pdb
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Timer\Timer\obj\Debug\Timer.Form1.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Timer\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Timer\Timer\obj\Debug\Timer.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Timer\Timer\obj\Debug\Timer.pdb

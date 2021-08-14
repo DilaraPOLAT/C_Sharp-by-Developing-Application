@@ -1,0 +1,9 @@
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Digital_clock_withTimer\Digital_clock_withTimer\bin\Debug\Digital_clock_withTimer.exe.config
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Digital_clock_withTimer\Digital_clock_withTimer\bin\Debug\Digital_clock_withTimer.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Digital_clock_withTimer\Digital_clock_withTimer\bin\Debug\Digital_clock_withTimer.pdb
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Digital_clock_withTimer\Digital_clock_withTimer\obj\Debug\Digital_clock_withTimer.Form1.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Digital_clock_withTimer\Digital_clock_withTimer\obj\Debug\Digital_clock_withTimer.Properties.Resources.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Digital_clock_withTimer\Digital_clock_withTimer\obj\Debug\Digital_clock_withTimer.csproj.GenerateResource.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Digital_clock_withTimer\Digital_clock_withTimer\obj\Debug\Digital_clock_withTimer.csproj.CoreCompileInputs.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Digital_clock_withTimer\Digital_clock_withTimer\obj\Debug\Digital_clock_withTimer.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Digital_clock_withTimer\Digital_clock_withTimer\obj\Debug\Digital_clock_withTimer.pdb

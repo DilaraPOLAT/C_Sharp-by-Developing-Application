@@ -1,0 +1,9 @@
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Do_while\Do_while\bin\Debug\Do_while.exe.config
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Do_while\Do_while\bin\Debug\Do_while.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Do_while\Do_while\bin\Debug\Do_while.pdb
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Do_while\Do_while\obj\Debug\Do_while.Form1.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Do_while\Do_while\obj\Debug\Do_while.Properties.Resources.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Do_while\Do_while\obj\Debug\Do_while.csproj.GenerateResource.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Do_while\Do_while\obj\Debug\Do_while.csproj.CoreCompileInputs.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Do_while\Do_while\obj\Debug\Do_while.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Do_while\Do_while\obj\Debug\Do_while.pdb

@@ -1,0 +1,9 @@
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Pratice_SumOfConsecutiveNumbers\Pratice_SumOfConsecutiveNumbers\bin\Debug\Pratice_SumOfConsecutiveNumbers.exe.config
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Pratice_SumOfConsecutiveNumbers\Pratice_SumOfConsecutiveNumbers\bin\Debug\Pratice_SumOfConsecutiveNumbers.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Pratice_SumOfConsecutiveNumbers\Pratice_SumOfConsecutiveNumbers\bin\Debug\Pratice_SumOfConsecutiveNumbers.pdb
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Pratice_SumOfConsecutiveNumbers\Pratice_SumOfConsecutiveNumbers\obj\Debug\Pratice_SumOfConsecutiveNumbers.Form1.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Pratice_SumOfConsecutiveNumbers\Pratice_SumOfConsecutiveNumbers\obj\Debug\Pratice_SumOfConsecutiveNumbers.Properties.Resources.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Pratice_SumOfConsecutiveNumbers\Pratice_SumOfConsecutiveNumbers\obj\Debug\Pratice_SumOfConsecutiveNumbers.csproj.GenerateResource.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Pratice_SumOfConsecutiveNumbers\Pratice_SumOfConsecutiveNumbers\obj\Debug\Pratice_SumOfConsecutiveNumbers.csproj.CoreCompileInputs.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Pratice_SumOfConsecutiveNumbers\Pratice_SumOfConsecutiveNumbers\obj\Debug\Pratice_SumOfConsecutiveNumbers.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Pratice_SumOfConsecutiveNumbers\Pratice_SumOfConsecutiveNumbers\obj\Debug\Pratice_SumOfConsecutiveNumbers.pdb

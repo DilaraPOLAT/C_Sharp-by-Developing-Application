@@ -1,0 +1,10 @@
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Loops_For\Loops_For\bin\Debug\Loops_For.exe.config
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Loops_For\Loops_For\bin\Debug\Loops_For.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Loops_For\Loops_For\bin\Debug\Loops_For.pdb
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Loops_For\Loops_For\obj\Debug\Loops_For.csproj.AssemblyReference.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Loops_For\Loops_For\obj\Debug\Loops_For.Form1.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Loops_For\Loops_For\obj\Debug\Loops_For.Properties.Resources.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Loops_For\Loops_For\obj\Debug\Loops_For.csproj.GenerateResource.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Loops_For\Loops_For\obj\Debug\Loops_For.csproj.CoreCompileInputs.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Loops_For\Loops_For\obj\Debug\Loops_For.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Loops_For\Loops_For\obj\Debug\Loops_For.pdb

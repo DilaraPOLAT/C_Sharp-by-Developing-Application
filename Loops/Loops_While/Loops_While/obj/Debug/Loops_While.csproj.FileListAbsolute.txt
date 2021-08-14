@@ -1,0 +1,9 @@
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Loops_While\Loops_While\bin\Debug\Loops_While.exe.config
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Loops_While\Loops_While\bin\Debug\Loops_While.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Loops_While\Loops_While\bin\Debug\Loops_While.pdb
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Loops_While\Loops_While\obj\Debug\Loops_While.Form1.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Loops_While\Loops_While\obj\Debug\Loops_While.Properties.Resources.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Loops_While\Loops_While\obj\Debug\Loops_While.csproj.GenerateResource.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Loops_While\Loops_While\obj\Debug\Loops_While.csproj.CoreCompileInputs.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Loops_While\Loops_While\obj\Debug\Loops_While.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\Loops_While\Loops_While\obj\Debug\Loops_While.pdb

@@ -1,0 +1,9 @@
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\CakeBakingProcessApp\CakeBakingProcessApp\bin\Debug\CakeBakingProcessApp.exe.config
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\CakeBakingProcessApp\CakeBakingProcessApp\bin\Debug\CakeBakingProcessApp.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\CakeBakingProcessApp\CakeBakingProcessApp\bin\Debug\CakeBakingProcessApp.pdb
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\CakeBakingProcessApp\CakeBakingProcessApp\obj\Debug\CakeBakingProcessApp.Form1.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\CakeBakingProcessApp\CakeBakingProcessApp\obj\Debug\CakeBakingProcessApp.Properties.Resources.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\CakeBakingProcessApp\CakeBakingProcessApp\obj\Debug\CakeBakingProcessApp.csproj.GenerateResource.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\CakeBakingProcessApp\CakeBakingProcessApp\obj\Debug\CakeBakingProcessApp.csproj.CoreCompileInputs.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\CakeBakingProcessApp\CakeBakingProcessApp\obj\Debug\CakeBakingProcessApp.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Loops\CakeBakingProcessApp\CakeBakingProcessApp\obj\Debug\CakeBakingProcessApp.pdb
