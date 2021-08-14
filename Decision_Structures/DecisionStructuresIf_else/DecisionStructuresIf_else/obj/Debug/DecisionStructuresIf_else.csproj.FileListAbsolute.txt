@@ -1,0 +1,10 @@
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Decision_Structures\DecisionStructuresIf_else\DecisionStructuresIf_else\bin\Debug\DecisionStructuresIf_else.exe.config
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Decision_Structures\DecisionStructuresIf_else\DecisionStructuresIf_else\bin\Debug\DecisionStructuresIf_else.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Decision_Structures\DecisionStructuresIf_else\DecisionStructuresIf_else\bin\Debug\DecisionStructuresIf_else.pdb
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Decision_Structures\DecisionStructuresIf_else\DecisionStructuresIf_else\obj\Debug\DecisionStructuresIf_else.csproj.AssemblyReference.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Decision_Structures\DecisionStructuresIf_else\DecisionStructuresIf_else\obj\Debug\DecisionStructuresIf_else.Form1.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Decision_Structures\DecisionStructuresIf_else\DecisionStructuresIf_else\obj\Debug\DecisionStructuresIf_else.Properties.Resources.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Decision_Structures\DecisionStructuresIf_else\DecisionStructuresIf_else\obj\Debug\DecisionStructuresIf_else.csproj.GenerateResource.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Decision_Structures\DecisionStructuresIf_else\DecisionStructuresIf_else\obj\Debug\DecisionStructuresIf_else.csproj.CoreCompileInputs.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Decision_Structures\DecisionStructuresIf_else\DecisionStructuresIf_else\obj\Debug\DecisionStructuresIf_else.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Decision_Structures\DecisionStructuresIf_else\DecisionStructuresIf_else\obj\Debug\DecisionStructuresIf_else.pdb

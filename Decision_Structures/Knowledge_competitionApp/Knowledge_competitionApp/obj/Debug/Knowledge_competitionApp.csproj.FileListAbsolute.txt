@@ -1,0 +1,10 @@
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Decision_Structures\Knowledge_competitionApp\Knowledge_competitionApp\bin\Debug\Knowledge_competitionApp.exe.config
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Decision_Structures\Knowledge_competitionApp\Knowledge_competitionApp\bin\Debug\Knowledge_competitionApp.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Decision_Structures\Knowledge_competitionApp\Knowledge_competitionApp\bin\Debug\Knowledge_competitionApp.pdb
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Decision_Structures\Knowledge_competitionApp\Knowledge_competitionApp\obj\Debug\Knowledge_competitionApp.csproj.AssemblyReference.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Decision_Structures\Knowledge_competitionApp\Knowledge_competitionApp\obj\Debug\Knowledge_competitionApp.Form1.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Decision_Structures\Knowledge_competitionApp\Knowledge_competitionApp\obj\Debug\Knowledge_competitionApp.Properties.Resources.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Decision_Structures\Knowledge_competitionApp\Knowledge_competitionApp\obj\Debug\Knowledge_competitionApp.csproj.GenerateResource.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Decision_Structures\Knowledge_competitionApp\Knowledge_competitionApp\obj\Debug\Knowledge_competitionApp.csproj.CoreCompileInputs.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Decision_Structures\Knowledge_competitionApp\Knowledge_competitionApp\obj\Debug\Knowledge_competitionApp.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Decision_Structures\Knowledge_competitionApp\Knowledge_competitionApp\obj\Debug\Knowledge_competitionApp.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Knowledge_competitionApp", "Knowledge_competitionApp\Knowledge_competitionApp.csproj", "{EF20949E-886A-4C17-A47E-AB724896BCD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF20949E-886A-4C17-A47E-AB724896BCD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF20949E-886A-4C17-A47E-AB724896BCD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF20949E-886A-4C17-A47E-AB724896BCD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF20949E-886A-4C17-A47E-AB724896BCD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F66671B-4E57-46AC-9C4E-E47F447FED0C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Decision_Structures\Switch_case\Switch_case\bin\Debug\Switch_case.exe.config
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Decision_Structures\Switch_case\Switch_case\bin\Debug\Switch_case.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Decision_Structures\Switch_case\Switch_case\bin\Debug\Switch_case.pdb
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Decision_Structures\Switch_case\Switch_case\obj\Debug\Switch_case.csproj.AssemblyReference.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Decision_Structures\Switch_case\Switch_case\obj\Debug\Switch_case.Form1.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Decision_Structures\Switch_case\Switch_case\obj\Debug\Switch_case.Properties.Resources.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Decision_Structures\Switch_case\Switch_case\obj\Debug\Switch_case.csproj.GenerateResource.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Decision_Structures\Switch_case\Switch_case\obj\Debug\Switch_case.csproj.CoreCompileInputs.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Decision_Structures\Switch_case\Switch_case\obj\Debug\Switch_case.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Decision_Structures\Switch_case\Switch_case\obj\Debug\Switch_case.pdb
