@@ -1,0 +1,1 @@
+Select * from Tbl_Personel where PerMaas>3000

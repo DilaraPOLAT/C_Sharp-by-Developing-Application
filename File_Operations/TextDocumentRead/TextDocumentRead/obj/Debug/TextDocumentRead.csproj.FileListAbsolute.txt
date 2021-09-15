@@ -1,0 +1,10 @@
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\TextDocumentRead\TextDocumentRead\bin\Debug\TextDocumentRead.exe.config
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\TextDocumentRead\TextDocumentRead\bin\Debug\TextDocumentRead.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\TextDocumentRead\TextDocumentRead\bin\Debug\TextDocumentRead.pdb
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\TextDocumentRead\TextDocumentRead\obj\Debug\TextDocumentRead.csproj.AssemblyReference.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\TextDocumentRead\TextDocumentRead\obj\Debug\TextDocumentRead.Form1.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\TextDocumentRead\TextDocumentRead\obj\Debug\TextDocumentRead.Properties.Resources.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\TextDocumentRead\TextDocumentRead\obj\Debug\TextDocumentRead.csproj.GenerateResource.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\TextDocumentRead\TextDocumentRead\obj\Debug\TextDocumentRead.csproj.CoreCompileInputs.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\TextDocumentRead\TextDocumentRead\obj\Debug\TextDocumentRead.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\TextDocumentRead\TextDocumentRead\obj\Debug\TextDocumentRead.pdb

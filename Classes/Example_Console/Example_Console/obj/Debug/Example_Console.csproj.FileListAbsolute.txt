@@ -1,0 +1,7 @@
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Classes\Example_Console\Example_Console\bin\Debug\Example_Console.exe.config
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Classes\Example_Console\Example_Console\bin\Debug\Example_Console.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Classes\Example_Console\Example_Console\bin\Debug\Example_Console.pdb
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Classes\Example_Console\Example_Console\obj\Debug\Example_Console.csproj.CoreCompileInputs.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Classes\Example_Console\Example_Console\obj\Debug\Example_Console.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Classes\Example_Console\Example_Console\obj\Debug\Example_Console.pdb
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Classes\Example_Console\Example_Console\obj\Debug\Example_Console.csproj.AssemblyReference.cache

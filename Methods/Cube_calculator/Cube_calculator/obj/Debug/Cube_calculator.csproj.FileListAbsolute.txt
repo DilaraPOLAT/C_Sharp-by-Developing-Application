@@ -1,0 +1,10 @@
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Methods\Cube_calculator\Cube_calculator\bin\Debug\Cube_calculator.exe.config
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Methods\Cube_calculator\Cube_calculator\bin\Debug\Cube_calculator.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Methods\Cube_calculator\Cube_calculator\bin\Debug\Cube_calculator.pdb
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Methods\Cube_calculator\Cube_calculator\obj\Debug\Cube_calculator.csproj.AssemblyReference.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Methods\Cube_calculator\Cube_calculator\obj\Debug\Cube_calculator.Form1.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Methods\Cube_calculator\Cube_calculator\obj\Debug\Cube_calculator.Properties.Resources.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Methods\Cube_calculator\Cube_calculator\obj\Debug\Cube_calculator.csproj.GenerateResource.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Methods\Cube_calculator\Cube_calculator\obj\Debug\Cube_calculator.csproj.CoreCompileInputs.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Methods\Cube_calculator\Cube_calculator\obj\Debug\Cube_calculator.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Methods\Cube_calculator\Cube_calculator\obj\Debug\Cube_calculator.pdb

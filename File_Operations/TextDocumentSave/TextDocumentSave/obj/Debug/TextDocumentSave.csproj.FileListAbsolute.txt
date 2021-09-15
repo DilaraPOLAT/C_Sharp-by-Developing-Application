@@ -1,0 +1,9 @@
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\TextDocumentSave\TextDocumentSave\bin\Debug\TextDocumentSave.exe.config
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\TextDocumentSave\TextDocumentSave\bin\Debug\TextDocumentSave.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\TextDocumentSave\TextDocumentSave\bin\Debug\TextDocumentSave.pdb
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\TextDocumentSave\TextDocumentSave\obj\Debug\TextDocumentSave.Form1.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\TextDocumentSave\TextDocumentSave\obj\Debug\TextDocumentSave.Properties.Resources.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\TextDocumentSave\TextDocumentSave\obj\Debug\TextDocumentSave.csproj.GenerateResource.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\TextDocumentSave\TextDocumentSave\obj\Debug\TextDocumentSave.csproj.CoreCompileInputs.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\TextDocumentSave\TextDocumentSave\obj\Debug\TextDocumentSave.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\TextDocumentSave\TextDocumentSave\obj\Debug\TextDocumentSave.pdb

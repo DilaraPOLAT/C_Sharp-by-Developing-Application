@@ -1,0 +1,10 @@
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\Captcha\Captcha\bin\Debug\Captcha.exe.config
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\Captcha\Captcha\bin\Debug\Captcha.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\Captcha\Captcha\bin\Debug\Captcha.pdb
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\Captcha\Captcha\obj\Debug\Captcha.Form1.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\Captcha\Captcha\obj\Debug\Captcha.Properties.Resources.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\Captcha\Captcha\obj\Debug\Captcha.csproj.GenerateResource.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\Captcha\Captcha\obj\Debug\Captcha.csproj.CoreCompileInputs.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\Captcha\Captcha\obj\Debug\Captcha.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\Captcha\Captcha\obj\Debug\Captcha.pdb
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\Captcha\Captcha\obj\Debug\Captcha.Form2.resources

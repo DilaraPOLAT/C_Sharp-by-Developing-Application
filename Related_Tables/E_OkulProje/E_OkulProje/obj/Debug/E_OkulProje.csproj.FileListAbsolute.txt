@@ -1,0 +1,15 @@
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Related_Tables\E_OkulProje\E_OkulProje\bin\Debug\E_OkulProje.exe.config
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Related_Tables\E_OkulProje\E_OkulProje\bin\Debug\E_OkulProje.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Related_Tables\E_OkulProje\E_OkulProje\bin\Debug\E_OkulProje.pdb
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Related_Tables\E_OkulProje\E_OkulProje\obj\Debug\E_OkulProje.csproj.AssemblyReference.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Related_Tables\E_OkulProje\E_OkulProje\obj\Debug\E_OkulProje.Properties.Resources.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Related_Tables\E_OkulProje\E_OkulProje\obj\Debug\E_OkulProje.csproj.GenerateResource.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Related_Tables\E_OkulProje\E_OkulProje\obj\Debug\E_OkulProje.csproj.CoreCompileInputs.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Related_Tables\E_OkulProje\E_OkulProje\obj\Debug\E_OkulProje.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Related_Tables\E_OkulProje\E_OkulProje\obj\Debug\E_OkulProje.pdb
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Related_Tables\E_OkulProje\E_OkulProje\obj\Debug\E_OkulProje.frmStudentLogin.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Related_Tables\E_OkulProje\E_OkulProje\obj\Debug\E_OkulProje.frmMain.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Related_Tables\E_OkulProje\E_OkulProje\obj\Debug\E_OkulProje.frmTeacher.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Related_Tables\E_OkulProje\E_OkulProje\obj\Debug\E_OkulProje.frmStudentNotes.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Related_Tables\E_OkulProje\E_OkulProje\obj\Debug\E_OkulProje.frmClub.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Related_Tables\E_OkulProje\E_OkulProje\obj\Debug\E_OkulProje.frmLessons.resources

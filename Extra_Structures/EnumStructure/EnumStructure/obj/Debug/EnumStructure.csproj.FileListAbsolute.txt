@@ -1,0 +1,9 @@
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\EnumStructure\EnumStructure\bin\Debug\EnumStructure.exe.config
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\EnumStructure\EnumStructure\bin\Debug\EnumStructure.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\EnumStructure\EnumStructure\bin\Debug\EnumStructure.pdb
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\EnumStructure\EnumStructure\obj\Debug\EnumStructure.Form1.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\EnumStructure\EnumStructure\obj\Debug\EnumStructure.Properties.Resources.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\EnumStructure\EnumStructure\obj\Debug\EnumStructure.csproj.GenerateResource.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\EnumStructure\EnumStructure\obj\Debug\EnumStructure.csproj.CoreCompileInputs.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\EnumStructure\EnumStructure\obj\Debug\EnumStructure.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\EnumStructure\EnumStructure\obj\Debug\EnumStructure.pdb

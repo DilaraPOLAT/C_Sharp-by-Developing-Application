@@ -1,0 +1,9 @@
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Arrays\Return_Methods\Return_Methods\bin\Debug\Return_Methods.exe.config
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Arrays\Return_Methods\Return_Methods\bin\Debug\Return_Methods.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Arrays\Return_Methods\Return_Methods\bin\Debug\Return_Methods.pdb
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Arrays\Return_Methods\Return_Methods\obj\Debug\Return_Methods.Form1.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Arrays\Return_Methods\Return_Methods\obj\Debug\Return_Methods.Properties.Resources.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Arrays\Return_Methods\Return_Methods\obj\Debug\Return_Methods.csproj.GenerateResource.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Arrays\Return_Methods\Return_Methods\obj\Debug\Return_Methods.csproj.CoreCompileInputs.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Arrays\Return_Methods\Return_Methods\obj\Debug\Return_Methods.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Arrays\Return_Methods\Return_Methods\obj\Debug\Return_Methods.pdb

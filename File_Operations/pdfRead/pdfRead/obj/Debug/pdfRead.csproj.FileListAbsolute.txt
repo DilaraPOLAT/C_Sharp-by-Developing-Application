@@ -1,0 +1,14 @@
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\pdfRead\pdfRead\bin\Debug\pdfRead.exe.config
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\pdfRead\pdfRead\bin\Debug\pdfRead.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\pdfRead\pdfRead\bin\Debug\pdfRead.pdb
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\pdfRead\pdfRead\obj\Debug\pdfRead.Form1.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\pdfRead\pdfRead\obj\Debug\pdfRead.Properties.Resources.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\pdfRead\pdfRead\obj\Debug\pdfRead.csproj.GenerateResource.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\pdfRead\pdfRead\obj\Debug\pdfRead.csproj.CoreCompileInputs.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\pdfRead\pdfRead\obj\Debug\pdfRead.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\pdfRead\pdfRead\obj\Debug\pdfRead.pdb
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\pdfRead\pdfRead\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\pdfRead\pdfRead\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\pdfRead\pdfRead\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\pdfRead\pdfRead\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\pdfRead\pdfRead\obj\Debug\pdfRead.csproj.ResolveComReference.cache

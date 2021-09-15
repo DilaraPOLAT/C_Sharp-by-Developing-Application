@@ -1,0 +1,9 @@
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Error_Controls\Exception_Messages\Exception_Messages\bin\Debug\Exception_Messages.exe.config
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Error_Controls\Exception_Messages\Exception_Messages\bin\Debug\Exception_Messages.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Error_Controls\Exception_Messages\Exception_Messages\bin\Debug\Exception_Messages.pdb
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Error_Controls\Exception_Messages\Exception_Messages\obj\Debug\Exception_Messages.Form1.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Error_Controls\Exception_Messages\Exception_Messages\obj\Debug\Exception_Messages.Properties.Resources.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Error_Controls\Exception_Messages\Exception_Messages\obj\Debug\Exception_Messages.csproj.GenerateResource.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Error_Controls\Exception_Messages\Exception_Messages\obj\Debug\Exception_Messages.csproj.CoreCompileInputs.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Error_Controls\Exception_Messages\Exception_Messages\obj\Debug\Exception_Messages.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Error_Controls\Exception_Messages\Exception_Messages\obj\Debug\Exception_Messages.pdb

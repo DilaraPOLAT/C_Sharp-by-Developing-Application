@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Not_returnMethods", "Not_returnMethods\Not_returnMethods.csproj", "{1FDA0778-5638-4373-A04D-7122E9E61884}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FDA0778-5638-4373-A04D-7122E9E61884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FDA0778-5638-4373-A04D-7122E9E61884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FDA0778-5638-4373-A04D-7122E9E61884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FDA0778-5638-4373-A04D-7122E9E61884}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B047418-49A3-47C5-BD32-CA5BD4893455}
+	EndGlobalSection
+EndGlobal

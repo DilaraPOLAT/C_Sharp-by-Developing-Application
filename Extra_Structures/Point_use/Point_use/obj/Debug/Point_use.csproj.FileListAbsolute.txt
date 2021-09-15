@@ -1,0 +1,9 @@
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\Point_use\Point_use\bin\Debug\Point_use.exe.config
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\Point_use\Point_use\bin\Debug\Point_use.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\Point_use\Point_use\bin\Debug\Point_use.pdb
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\Point_use\Point_use\obj\Debug\Point_use.Form1.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\Point_use\Point_use\obj\Debug\Point_use.Properties.Resources.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\Point_use\Point_use\obj\Debug\Point_use.csproj.GenerateResource.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\Point_use\Point_use\obj\Debug\Point_use.csproj.CoreCompileInputs.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\Point_use\Point_use\obj\Debug\Point_use.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\Point_use\Point_use\obj\Debug\Point_use.pdb

@@ -1,0 +1,10 @@
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\DataMigrationBetweenForms\DataMigrationBetweenForms\bin\Debug\DataMigrationBetweenForms.exe.config
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\DataMigrationBetweenForms\DataMigrationBetweenForms\bin\Debug\DataMigrationBetweenForms.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\DataMigrationBetweenForms\DataMigrationBetweenForms\bin\Debug\DataMigrationBetweenForms.pdb
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\DataMigrationBetweenForms\DataMigrationBetweenForms\obj\Debug\DataMigrationBetweenForms.Form1.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\DataMigrationBetweenForms\DataMigrationBetweenForms\obj\Debug\DataMigrationBetweenForms.Form2.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\DataMigrationBetweenForms\DataMigrationBetweenForms\obj\Debug\DataMigrationBetweenForms.Properties.Resources.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\DataMigrationBetweenForms\DataMigrationBetweenForms\obj\Debug\DataMigrationBetweenForms.csproj.GenerateResource.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\DataMigrationBetweenForms\DataMigrationBetweenForms\obj\Debug\DataMigrationBetweenForms.csproj.CoreCompileInputs.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\DataMigrationBetweenForms\DataMigrationBetweenForms\obj\Debug\DataMigrationBetweenForms.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\DataMigrationBetweenForms\DataMigrationBetweenForms\obj\Debug\DataMigrationBetweenForms.pdb

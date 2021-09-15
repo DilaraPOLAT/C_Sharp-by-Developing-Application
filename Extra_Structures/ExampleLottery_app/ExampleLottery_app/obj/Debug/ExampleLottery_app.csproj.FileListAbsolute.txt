@@ -1,0 +1,9 @@
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\ExampleLottery_app\ExampleLottery_app\bin\Debug\ExampleLottery_app.exe.config
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\ExampleLottery_app\ExampleLottery_app\bin\Debug\ExampleLottery_app.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\ExampleLottery_app\ExampleLottery_app\bin\Debug\ExampleLottery_app.pdb
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\ExampleLottery_app\ExampleLottery_app\obj\Debug\ExampleLottery_app.Form1.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\ExampleLottery_app\ExampleLottery_app\obj\Debug\ExampleLottery_app.Properties.Resources.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\ExampleLottery_app\ExampleLottery_app\obj\Debug\ExampleLottery_app.csproj.GenerateResource.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\ExampleLottery_app\ExampleLottery_app\obj\Debug\ExampleLottery_app.csproj.CoreCompileInputs.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\ExampleLottery_app\ExampleLottery_app\obj\Debug\ExampleLottery_app.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\ExampleLottery_app\ExampleLottery_app\obj\Debug\ExampleLottery_app.pdb

@@ -1,0 +1,9 @@
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Arrays\ArrayListing\ArrayListing\bin\Debug\ArrayListing.exe.config
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Arrays\ArrayListing\ArrayListing\bin\Debug\ArrayListing.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Arrays\ArrayListing\ArrayListing\bin\Debug\ArrayListing.pdb
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Arrays\ArrayListing\ArrayListing\obj\Debug\ArrayListing.Form1.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Arrays\ArrayListing\ArrayListing\obj\Debug\ArrayListing.Properties.Resources.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Arrays\ArrayListing\ArrayListing\obj\Debug\ArrayListing.csproj.GenerateResource.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Arrays\ArrayListing\ArrayListing\obj\Debug\ArrayListing.csproj.CoreCompileInputs.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Arrays\ArrayListing\ArrayListing\obj\Debug\ArrayListing.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Arrays\ArrayListing\ArrayListing\obj\Debug\ArrayListing.pdb

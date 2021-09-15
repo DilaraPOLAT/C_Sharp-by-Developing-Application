@@ -1,0 +1,10 @@
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\Text_Document\Text_Document\bin\Debug\Text_Document.exe.config
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\Text_Document\Text_Document\bin\Debug\Text_Document.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\Text_Document\Text_Document\bin\Debug\Text_Document.pdb
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\Text_Document\Text_Document\obj\Debug\Text_Document.csproj.AssemblyReference.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\Text_Document\Text_Document\obj\Debug\Text_Document.Form1.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\Text_Document\Text_Document\obj\Debug\Text_Document.Properties.Resources.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\Text_Document\Text_Document\obj\Debug\Text_Document.csproj.GenerateResource.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\Text_Document\Text_Document\obj\Debug\Text_Document.csproj.CoreCompileInputs.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\Text_Document\Text_Document\obj\Debug\Text_Document.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\Text_Document\Text_Document\obj\Debug\Text_Document.pdb

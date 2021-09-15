@@ -1,0 +1,11 @@
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Classes\Class_Obje_Create\Class_Obje_Create\bin\Debug\Class_Obje_Create.exe.config
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Classes\Class_Obje_Create\Class_Obje_Create\bin\Debug\Class_Obje_Create.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Classes\Class_Obje_Create\Class_Obje_Create\bin\Debug\Class_Obje_Create.pdb
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Classes\Class_Obje_Create\Class_Obje_Create\obj\Debug\Class_Obje_Create.csproj.AssemblyReference.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Classes\Class_Obje_Create\Class_Obje_Create\obj\Debug\Class_Obje_Create.Form1.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Classes\Class_Obje_Create\Class_Obje_Create\obj\Debug\Class_Obje_Create.Form2.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Classes\Class_Obje_Create\Class_Obje_Create\obj\Debug\Class_Obje_Create.Properties.Resources.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Classes\Class_Obje_Create\Class_Obje_Create\obj\Debug\Class_Obje_Create.csproj.GenerateResource.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Classes\Class_Obje_Create\Class_Obje_Create\obj\Debug\Class_Obje_Create.csproj.CoreCompileInputs.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Classes\Class_Obje_Create\Class_Obje_Create\obj\Debug\Class_Obje_Create.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Classes\Class_Obje_Create\Class_Obje_Create\obj\Debug\Class_Obje_Create.pdb

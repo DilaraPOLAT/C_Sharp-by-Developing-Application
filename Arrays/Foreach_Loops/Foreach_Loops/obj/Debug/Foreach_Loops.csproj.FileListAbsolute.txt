@@ -1,0 +1,9 @@
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Arrays\Foreach_Loops\Foreach_Loops\bin\Debug\Foreach_Loops.exe.config
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Arrays\Foreach_Loops\Foreach_Loops\bin\Debug\Foreach_Loops.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Arrays\Foreach_Loops\Foreach_Loops\bin\Debug\Foreach_Loops.pdb
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Arrays\Foreach_Loops\Foreach_Loops\obj\Debug\Foreach_Loops.Form1.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Arrays\Foreach_Loops\Foreach_Loops\obj\Debug\Foreach_Loops.Properties.Resources.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Arrays\Foreach_Loops\Foreach_Loops\obj\Debug\Foreach_Loops.csproj.GenerateResource.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Arrays\Foreach_Loops\Foreach_Loops\obj\Debug\Foreach_Loops.csproj.CoreCompileInputs.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Arrays\Foreach_Loops\Foreach_Loops\obj\Debug\Foreach_Loops.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Arrays\Foreach_Loops\Foreach_Loops\obj\Debug\Foreach_Loops.pdb

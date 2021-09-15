@@ -1,0 +1,10 @@
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Tools\Chart_Graphic\Chart_Graphic\bin\Debug\Chart_Graphic.exe.config
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Tools\Chart_Graphic\Chart_Graphic\bin\Debug\Chart_Graphic.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Tools\Chart_Graphic\Chart_Graphic\bin\Debug\Chart_Graphic.pdb
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Tools\Chart_Graphic\Chart_Graphic\obj\Debug\Chart_Graphic.csproj.AssemblyReference.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Tools\Chart_Graphic\Chart_Graphic\obj\Debug\Chart_Graphic.Form1.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Tools\Chart_Graphic\Chart_Graphic\obj\Debug\Chart_Graphic.Properties.Resources.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Tools\Chart_Graphic\Chart_Graphic\obj\Debug\Chart_Graphic.csproj.GenerateResource.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Tools\Chart_Graphic\Chart_Graphic\obj\Debug\Chart_Graphic.csproj.CoreCompileInputs.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Tools\Chart_Graphic\Chart_Graphic\obj\Debug\Chart_Graphic.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Tools\Chart_Graphic\Chart_Graphic\obj\Debug\Chart_Graphic.pdb

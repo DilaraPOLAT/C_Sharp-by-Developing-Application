@@ -1,0 +1,10 @@
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Tools\MenuStrip_use\MenuStrip_use\bin\Debug\MenuStrip_use.exe.config
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Tools\MenuStrip_use\MenuStrip_use\bin\Debug\MenuStrip_use.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Tools\MenuStrip_use\MenuStrip_use\bin\Debug\MenuStrip_use.pdb
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Tools\MenuStrip_use\MenuStrip_use\obj\Debug\MenuStrip_use.csproj.AssemblyReference.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Tools\MenuStrip_use\MenuStrip_use\obj\Debug\MenuStrip_use.Form1.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Tools\MenuStrip_use\MenuStrip_use\obj\Debug\MenuStrip_use.Properties.Resources.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Tools\MenuStrip_use\MenuStrip_use\obj\Debug\MenuStrip_use.csproj.GenerateResource.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Tools\MenuStrip_use\MenuStrip_use\obj\Debug\MenuStrip_use.csproj.CoreCompileInputs.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Tools\MenuStrip_use\MenuStrip_use\obj\Debug\MenuStrip_use.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Tools\MenuStrip_use\MenuStrip_use\obj\Debug\MenuStrip_use.pdb

@@ -1,0 +1,9 @@
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\RandomCommand\RandomCommand\bin\Debug\RandomCommand.exe.config
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\RandomCommand\RandomCommand\bin\Debug\RandomCommand.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\RandomCommand\RandomCommand\bin\Debug\RandomCommand.pdb
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\RandomCommand\RandomCommand\obj\Debug\RandomCommand.Form1.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\RandomCommand\RandomCommand\obj\Debug\RandomCommand.Properties.Resources.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\RandomCommand\RandomCommand\obj\Debug\RandomCommand.csproj.GenerateResource.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\RandomCommand\RandomCommand\obj\Debug\RandomCommand.csproj.CoreCompileInputs.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\RandomCommand\RandomCommand\obj\Debug\RandomCommand.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Extra_Structures\RandomCommand\RandomCommand\obj\Debug\RandomCommand.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextDocumentSave", "TextDocumentSave\TextDocumentSave.csproj", "{E127FE53-0056-43C6-AE08-FF51E8576D98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E127FE53-0056-43C6-AE08-FF51E8576D98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E127FE53-0056-43C6-AE08-FF51E8576D98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E127FE53-0056-43C6-AE08-FF51E8576D98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E127FE53-0056-43C6-AE08-FF51E8576D98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {739F8E44-D5E2-41FF-A40D-8D06056DB0C5}
+	EndGlobalSection
+EndGlobal

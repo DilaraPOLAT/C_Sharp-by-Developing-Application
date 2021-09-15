@@ -1,0 +1,10 @@
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Error_Controls\TryCatch\TryCatch\bin\Debug\TryCatch.exe.config
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Error_Controls\TryCatch\TryCatch\bin\Debug\TryCatch.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Error_Controls\TryCatch\TryCatch\bin\Debug\TryCatch.pdb
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Error_Controls\TryCatch\TryCatch\obj\Debug\TryCatch.csproj.AssemblyReference.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Error_Controls\TryCatch\TryCatch\obj\Debug\TryCatch.Form1.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Error_Controls\TryCatch\TryCatch\obj\Debug\TryCatch.Properties.Resources.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Error_Controls\TryCatch\TryCatch\obj\Debug\TryCatch.csproj.GenerateResource.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Error_Controls\TryCatch\TryCatch\obj\Debug\TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Error_Controls\TryCatch\TryCatch\obj\Debug\TryCatch.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\Error_Controls\TryCatch\TryCatch\obj\Debug\TryCatch.pdb

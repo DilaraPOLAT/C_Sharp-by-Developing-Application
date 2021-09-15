@@ -1,0 +1,10 @@
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\FileFolder\FileFolder\bin\Debug\FileFolder.exe.config
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\FileFolder\FileFolder\bin\Debug\FileFolder.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\FileFolder\FileFolder\bin\Debug\FileFolder.pdb
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\FileFolder\FileFolder\obj\Debug\FileFolder.csproj.AssemblyReference.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\FileFolder\FileFolder\obj\Debug\FileFolder.Form1.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\FileFolder\FileFolder\obj\Debug\FileFolder.Properties.Resources.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\FileFolder\FileFolder\obj\Debug\FileFolder.csproj.GenerateResource.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\FileFolder\FileFolder\obj\Debug\FileFolder.csproj.CoreCompileInputs.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\FileFolder\FileFolder\obj\Debug\FileFolder.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\C#_Udemy_MuratYucedag\File_Operations\FileFolder\FileFolder\obj\Debug\FileFolder.pdb
